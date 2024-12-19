@@ -1,0 +1,32 @@
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+float: left;
+}
+
+.vermelha {
+background-color: red;	
+}
+
+.azul {
+background-color: blue;		
+}
+
+.verde {
+background-color: green;		
+}
+
+.amarela {
+background-color: yellow;		
+}
+
+.vermelha.hov {
+border: 2px solid black;		
+}
+
+.vermelha.hov:hover {
+background-color: yellow;
+}
